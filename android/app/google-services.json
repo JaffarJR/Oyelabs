@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769104377957",
+    "project_id": "oyelabs-2f950",
+    "storage_bucket": "oyelabs-2f950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769104377957:android:f3e714de351daed3b0ee8c",
+        "android_client_info": {
+          "package_name": "com.assignment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769104377957-fci9cprtjbmrnjtolpo7eet557s9tbbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2MaqSMrcv4kSvaTWEbOabnkaFJaVmx1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769104377957-fci9cprtjbmrnjtolpo7eet557s9tbbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
